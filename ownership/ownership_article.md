@@ -1,5 +1,3 @@
-pls no share
-
 # Ownership
 
 ## What I mean by "ownership"

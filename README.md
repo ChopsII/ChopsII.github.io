@@ -8,4 +8,4 @@
 # My C++ Articles
 
 1. [Ownership](ownership/ownership_article.md)
-1. [Why I Separate Testing Code from the Source Code Repository](./Why%20I%20Separate%20Testing%20Code%20from%20the%20Source%20Code%20Repository/Why%20I%20Separate%20Testing%20Code%20from%20the%20Source%20Code%20Repository.md)
+1. [Why I Separate Testing Code from the Source Code Repository](Why_I_Separate_Testing_Code_from_the_Source_Code_Repository/Why_I_Separate_Testing_Code_from_the_Source_Code_Repository.md)
